@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 23-year-old code enthusiast from Wrocław, currently navigating the galaxy of IT Automation Systems at Wrocław University of Science and Technology. My journey from QBASIC text adventures to full-stack engineering has been quite the space odyssey!
+I'm a 23-year-old software engineer from Wrocław. My journey from QBASIC text adventures to full-stack engineering has been quite the space odyssey!
 
 As a full-stack engineer, I wield the power of Python and JavaScript, crafting digital solutions with frameworks like Django and React. I've also ventured into the realm of C#, developing desktop applications that push the boundaries of what's possible.
 
